@@ -1,6 +1,6 @@
 存ubc2较相同的视频，提供访问猎奇的伙伴们访问
 
-Ubc2是使用github制作的网页,你现在访问的网页也是github制作，当然，ubc2.github.io也并不是访问不了，就是被拒绝访问，而自己绑定的域名却可以访问，那是因为github.io的域名拒绝你的访问
+Ubc2是使用github制作的网页,你现在访问的网页也是github制作，当然，ubc2.github.io也并不是访问不了，就是被拒绝访问，而本网页可以访问那是因为是绑定了域名，ubc2没有绑定域名，使用了github自带的域名，github.io的域名拒绝你的访问。
  
  图示：
  ![无法访问ubc2](//ubc2.suibbs.online/img/Screenshot_2020-12-26-10-43-13-344_mark.via.jpg)

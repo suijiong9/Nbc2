@@ -14,6 +14,6 @@ Ubc2是使用github制作的网页,你现在访问的网页也是github制作，
 （你可以先使用没限制网络访问，然后使用你的网络访问也ok）
 
 最后,如果没有没限制网络或没移动流量拒绝访问。使用科学器吧！
-> 网站不提供任何科学器，使用科学器访问[ubc2](//ubc2.github.io/links/meun.html)时，请不要违反法律。
+> 网站不提供任何科学器，使用科学器访问[ubc2](//ubc2.github.io/links/menu.html)时，请不要违反法律。
 
 [@mail](mailto:mc26646@163.com)

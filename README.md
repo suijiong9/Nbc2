@@ -17,3 +17,11 @@ Ubc2是使用github制作的网页,你现在访问的网页也是github制作，
 > 网站不提供任何科学器，使用科学器访问[ubc2](//ubc2.github.io/links/menu.html)时，请不要违反法律。
 
 [@mail](mailto:mc26646@163.com)
+[B站](https://space.bilibili.com/450347611)
+
+如何进入：
+> 输入：/线（line）/页s（pages）/avid
+> 
+> 或：/线（line）/页（page）,进入选择AV
+
+@随囧制作
